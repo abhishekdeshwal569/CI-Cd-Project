@@ -8,7 +8,7 @@
     <artifactId>CI-Cd-Project</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
-        <finalName>CI-Cd-Project</finalName>
+        <finalName>cicdproject</finalName>
     </build>
     <properties>
         <maven.compiler.source>1.7</maven.compiler.source>
